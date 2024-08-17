@@ -105,15 +105,15 @@ async def start_pm(client, message: Message, _):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {query}"
+                            text="Support 💖", url=f"https://t.me/UR_RISHU_143"
                         ),
                         InlineKeyboardButton(
-                            text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {query}"
+                            text="Group 💖", url=f"https://t.me/Ur_support07"
                         ),
                     ],
                     [
                         InlineKeyboardButton(text="🎧 sᴇᴇ ᴏɴ ʏᴏᴜᴛᴜʙᴇ 🎧", url=link),
-                    ],
+                   ],
                 ]
             )
             await m.delete()
