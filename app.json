@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ https://my.telegram.org",
-        "value": "",
+        "value": "14050586",
         "required": true
       },
       "API_HASH": {
         "description": "ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ https://my.telegram.org",
-        "value": "",
+        "value": "42a60d9c657b106370c79bb0a8ac560c",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "ɢᴇᴛ ᴀ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ..",
-        "value": "6399386263",
+        "value": "5738579437",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,27 +54,27 @@
       },
       "START_IMG_URL": {
         "description": "ғɪʟʟ ʜᴇʀᴇ ʏᴏᴜʀ sᴛᴀʀᴛ ɪᴍᴀɢᴇ ᴜʀʟ, ɢᴇᴛ ɪᴛ ғʀᴏᴍ @TheChampuBot ᴜsɪɴɢ /tgm ᴄᴏᴍᴍᴀɴᴅ",
-        "value": "",
+        "value": "https://graph.org/file/5b9490a8a099f03174b3b.jpg",
         "required": true
       },
       "LOGGER_ID": {
         "description": "ʏᴏᴜʀ ʟᴏɢ ɢʀᴏᴜᴘ ɪᴅ, ᴀᴅᴅ ʏᴏᴜʀ ʙᴏᴛ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs!.",
-        "value": "",
+        "value": "-1001992970818",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "ᴘᴜᴛ ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ʜᴇʀᴇ.",
-        "value": "",
+        "value": "https://t.me/Ur_support07",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "ᴘᴜᴛ ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ʜᴇʀᴇ.",
-        "value": "",
+        "value": "https://t.me/UR_RISHU_143",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "ғɪʟʟ ʜᴇʀᴇ ʏᴏᴜʀ ᴘɪɴɢ ɪᴍᴀɢᴇ ᴜʀʟ, ɢᴇᴛ ɪᴛ ғʀᴏᴍ @TheChampuBot ᴜsɪɴɢ /tgm ᴄᴏᴍᴍᴀɴᴅ.",
-        "value": "",
+        "value": "https://graph.org/file/8807e34ef0b11498981e0.jpg",
         "required": false
       },
       "STATS_IMG_URL": {
