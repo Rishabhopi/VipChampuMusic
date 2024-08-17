@@ -79,12 +79,12 @@
       },
       "STATS_IMG_URL": {
         "description": "ғɪʟʟ ʜᴇʀᴇ ʏᴏᴜʀ sᴛᴀᴛs ɪᴍᴀɢᴇ ᴜʀʟ, ɢᴇᴛ ɪᴛ ғʀᴏᴍ @TheChampuBot ᴜsɪɴɢ /tgm ᴄᴏᴍᴍᴀɴᴅ.",
-        "value": "",
+        "value": "https://graph.org/file/7f790884507f5778f92bd.jpg",
         "required": false
       },
       "UPSTREAM_REPO": {
         "description": " ᴘᴜᴛ ʏᴏᴜʀ ʀᴇᴘᴏ ʟɪɴᴋ ʜᴇʀᴇ .",
-        "value": "",
+        "value": "https://github.com/Rishabhopi/VipChampuMusic",
         "required": true
       }
     },
