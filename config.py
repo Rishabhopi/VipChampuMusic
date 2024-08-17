@@ -29,7 +29,7 @@ EXTRA_PLUGINS = getenv(
 # Fill True if you want to load extra plugins
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/TheChampu/MusicPlugins",
+    "https://github.com/Rishabhopi/MusicPlugins",
 )
 # Fill here the external plugins repo where plugins that you want to load
 # Your folder name in your extra plugins repo where all plugins stored
@@ -37,7 +37,7 @@ EXTRA_PLUGINS_FOLDER = getenv("EXTRA_PLUGINS_FOLDER", "plugins")
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001699199963"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001992970818"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID"))
@@ -59,8 +59,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TheChampu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/akaChampu")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ur_rishu_143")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Ur_support07")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "100"))
