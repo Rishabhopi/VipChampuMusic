@@ -82,9 +82,9 @@ async def help_button(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        text="↪️ Back", callback_data=f"help_back({prev_page_num})"
+                        text="🔶Back🔶", callback_data=f"help_back({prev_page_num})"
                     ),
-                    InlineKeyboardButton(text="🔄 Close", callback_data="close"),
+                    InlineKeyboardButton(text="⭕Close⭕", callback_data="close"),
                 ],
             ]
         )
