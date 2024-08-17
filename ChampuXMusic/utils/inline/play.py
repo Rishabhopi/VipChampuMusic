@@ -118,10 +118,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="🔸sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Ur_support07"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="🔸ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Ur_rishu_143"
             ),
         ],
         [
